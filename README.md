@@ -36,7 +36,9 @@ The square root of the variance is the standard deviation (SD or σ), which help
 * If the following commands can't run, you can download the extension from Visual Studio Code, it called "CPH ( Competitive Programming Helper )" and run "Tuto3.cpp". You can claim the result after this.
 
 ## Our members
+* Nguyen Hop Hoang Anh - B20DCVT025
 * Tran Thi Anh - B20DCVT042
+* Nguyen Chi Cao - B20DCVT047
 * Nguyen Xuan Hieu - B20DCVT153
 * Tran Duy Lang - B20DCVT224
 * Vu The Long - B20DCVT238
@@ -45,6 +47,8 @@ The square root of the variance is the standard deviation (SD or σ), which help
 * Tran Nam Phong - B20DCVT288 ( Leader )
 * Pham Thi Viet Trinh - B20DCVT392
 * Nguyen Duc Trung - B20DCVT400
+* Mai Duc Vinh - B20DCVT417
+
 
 
 ## Danke
