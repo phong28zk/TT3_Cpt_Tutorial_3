@@ -36,14 +36,16 @@ The square root of the variance is the standard deviation (SD or σ), which help
 * If the following commands can't run, you can download the extension from Visual Studio Code, it called "CPH ( Competitive Programming Helper )" and run "Tuto3.cpp". You can claim the result after this.
 
 ## Our members
-* Tran Nam Phong - B20DCVT288
-* Tran Duy Lang - B20DCVT224
 * Tran Thi Anh - B20DCVT042
 * Nguyen Xuan Hieu - B20DCVT153
-* Nguyen Duc Trung - B20DCVT400
-* Luong Thi Ngoc - B20DCVT272
-* Pham Thi Viet Trinh - B20DCVT392
+* Tran Duy Lang - B20DCVT224
+* Vu The Long - B20DCVT238
 * Pham Thi Hong Minh - B20DCVT256
+* Luong Thi Ngoc - B20DCVT272
+* Tran Nam Phong - B20DCVT288 ( Leader )
+* Pham Thi Viet Trinh - B20DCVT392
+* Nguyen Duc Trung - B20DCVT400
+
 
 ## Danke
 * Thanks to `Nguyen Trong Trung Anh` - our teacher of this subject for help and giving us the opportunity to learn and practice this topic.
