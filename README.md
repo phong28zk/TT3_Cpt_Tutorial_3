@@ -43,5 +43,5 @@ The square root of the variance is the standard deviation (SD or σ), which help
 * Pham Thi Hong Minh - B20DCVT256
 
 ## Danke
-* Thanks to 'Nguyen Trung Anh' - our teacher of this subject for help and giving us the opportunity to learn and practice this topic.
+* Thanks to `Nguyen Trong Trung Anh` - our teacher of this subject for help and giving us the opportunity to learn and practice this topic.
 
