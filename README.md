@@ -33,7 +33,7 @@ The square root of the variance is the standard deviation (SD or σ), which help
 
 > Tuto3.exe
 
-* If the following commands can't run, you can download the extension from Visual Studio, it called "CPH ( Competitive Programming Helper )" and run "Tuto3.cpp". You can claim the result after this.
+* If the following commands can't run, you can download the extension from Visual Studio Code, it called "CPH ( Competitive Programming Helper )" and run "Tuto3.cpp". You can claim the result after this.
 
 ## Our members
 * Tran Nam Phong - B20DCVT288
