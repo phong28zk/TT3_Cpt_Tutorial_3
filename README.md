@@ -25,13 +25,12 @@ The square root of the variance is the standard deviation (SD or σ), which help
 
 ## Build/Run this project
 * Open the terminal and run the following commands ( for Windows )
+```
 > git clone https://github.com/Leon28Phongretzka/TT3_Cpt_Tutorial_3.git
-
 > cd TT3_Cpt_Tutorial_3
-
 > g++ Tuto3.cpp -o Tuto3.exe
-
 > Tuto3.exe
+```
 
 * If the following commands can't run, you can download the extension from Visual Studio Code, it called "CPH ( Competitive Programming Helper )" and run "Tuto3.cpp". You can claim the result after this.
 
